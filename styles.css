@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  background-color: rgb(209, 210, 210);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+}
+
+section {
+  background-color: rgb(209, 210, 210);
+}
+
+ul > li {
+  text-align: left;
+  font: bold;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10;
+}
+
+ul > li > a {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  font-weight: bold;
+}
